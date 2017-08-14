@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">HelpMe</string>
+    <string name="menu_buscar">search</string>
+    <string name="menu_contactos">contacts</string>
+    <string name="menu_acerca">about</string>
+    <string name="menu_alta">alta</string>
+    <string name="titulo_contactos">Contactos</string>
+    <string name="titulo_nuevo">Alta contacto</string>
+    <string name="hint_nombre">Name</string>
+    <string name="hint_telefono">Cell phone</string>
+    <string name="titulo_acercade">Acerca de</string>
+</resources>
